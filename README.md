@@ -1,6 +1,6 @@
 # Arc Reactor NeoPixel Animation
 
-This Arduino project simulates a glowing arc reactor using a ring of NeoPixels. The animation starts with a smooth startup sequence, lighting each LED one by one, then transitions into a slow, layered pulsing effect that fades between cyan, blue, and white — mimicking the iconic glow from Iron Man’s chest piece.
+This Arduino project simulates a glowing arc reactor using a ring of NeoPixels. The animation starts with a smooth startup sequence, lighting each LED one by one, then transitions into a slow, layered pulsing effect that fades between cyan, blue, and white — mimicking the iconic glow from Iron Man’s Arc Reactor.
 
 
 
